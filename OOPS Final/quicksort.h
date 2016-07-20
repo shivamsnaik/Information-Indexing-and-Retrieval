@@ -10,6 +10,8 @@
 
 #include "newfile.h"
 #include "node.h"
+#include <iostream>
+#include <string>
 
 class file
 {
